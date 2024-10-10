@@ -1,6 +1,7 @@
 ![Showcase](showcase.png)
 
-[Watch the video](video.mp4)
+![Showcase](gif.gif)
+
 
 ## Prerequisites
 
