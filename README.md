@@ -1,3 +1,9 @@
+![Showcase](showcase.png)
+
+<video width="640" height="360" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Prerequisites
 
@@ -37,4 +43,3 @@
 - If you encounter any errors during installation or execution, please ensure all dependencies are installed and that you have the correct versions of Python and CUDA.
 
 For further assistance, please refer to the project's documentation or contact the developer.
-
